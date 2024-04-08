@@ -5,7 +5,16 @@ aplikasi kalkulator sederhana menggunakan bahasa Kotlin. Proyek ini akan membant
 ## Output
 
 ```javascript
-
+Pilih operasi matematika:
+1. Tambah
+2. Kurang
+3. Kali
+4. Bagi
+5. Keluar
+Masukkan pilihan Anda: 1
+Masukkan dua bilangan: 10
+2
+Hasil tambah: 12.0
 ```
 
 ## Authors
